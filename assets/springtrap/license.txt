@@ -1,0 +1,11 @@
+Model Information:
+* title:	Springtrap
+* source:	https://sketchfab.com/3d-models/springtrap-877c5482f0c44736aa9b202f99e03436
+* author:	Springtrap._.1987._. (https://sketchfab.com/Springtrap._.1987._.)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Springtrap" (https://sketchfab.com/3d-models/springtrap-877c5482f0c44736aa9b202f99e03436) by Springtrap._.1987._. (https://sketchfab.com/Springtrap._.1987._.) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
